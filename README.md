@@ -20,9 +20,9 @@
 ## 🔐 Security Projects
 | Project | Description | Tools |
 |---|---|---|
-| [Linux Security Audit Framework](your-link) | Python-based security auditing tool with 0-100 risk scoring | Python, Linux, SIEM concepts |
-| [Mini SOC Vulnerability Scanner](your-link) | SOC-style scanner with Streamlit dashboard | Python, Nmap, SQLite |
-| [Wireshark Traffic Analysis](your-link) | Packet-level network security analysis | Wireshark, TCP/IP, TLS |
+| [Linux Security Audit Framework](https://github.com/Saumyaprasad31/linux-security-auditor) | Python-based security auditing tool with 0-100 risk scoring | Python, Linux, SIEM concepts |
+| [Mini SOC Vulnerability Scanner](https://github.com/Saumyaprasad31/network-vuln-scanner) | SOC-style scanner with Streamlit dashboard | Python, Nmap, SQLite |
+| [Wireshark Traffic Analysis](https://github.com/Saumyaprasad31/wireshark-network-traffic-analysis) | Packet-level network security analysis | Wireshark, TCP/IP, TLS |
 
 ## 📜 Certifications
 - Ethical Hacking — NSDC & IIT Madras Pravartak
